@@ -1,5 +1,5 @@
 ### 经遗传算法优化的反向传播神经网络（用于分类任务）
-#### An Optimized Genetic Algorithm-based BP Neural Network Model for the Classification of Human Pre-miRNA Subclasses
+##### An Optimized Genetic Algorithm-based BP Neural Network Model for the Classification of Human Pre-miRNA Subclasses
 
 ---
 
@@ -48,7 +48,7 @@
 - 适应度函数：均方误差 (MSE)
 
 #### 总结
-- 文章的 GA-BPNN 架构是： 42-12-2 的三层网络 + 采用遗传算法优化各层间的权重和阈值（注意不是优化架构的层数和节点数）
+- 文章的 GA-BPNN 架构是： 42-12-2 的三层网络 + 采用遗传算法优化各层间的权重和阈值（注意不是优化网络的层数和节点数）
 - 最终模型性能用 Accuracy + Sensitivity + Specificity + Precision + F1-score + MCC + ROC/AUC 全面评估
 
 
